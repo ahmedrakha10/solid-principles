@@ -1,0 +1,11 @@
+{
+    "name": "bg/solid",
+    "description": "Solid principles in php",
+    "authors": [
+        {
+            "name": "ahmedrakha10",
+            "email": "arakha70@gmail.com"
+        }
+    ],
+    "require": {}
+}
